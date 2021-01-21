@@ -1,0 +1,1 @@
+package com.base.common.utils;public final class ResponseCode {    public static final String SUCCESS = "200";   //成功    public static final String FAIL = "500";// 系统异常}
